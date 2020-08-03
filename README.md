@@ -1,6 +1,4 @@
-# 19-Homework
-
-Unit 19 React Homework: Employee Directory
+# React Employee Directory
 
 ## Overview
 
@@ -23,3 +21,11 @@ The user should be able to:
 - Sort the table by at least one category
 
 - Filter the users by at least one property.
+
+<strong>Home</strong>
+<br>
+<img src="./Home.png" height="75%" width="75%">
+
+<strong>New Employee Search</strong>
+<br>
+<img src="./searched.png" height="75%" width="75%">

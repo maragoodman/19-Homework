@@ -7,6 +7,7 @@ const DataTable = () => {
   const context = useContext(DataAreaContext);
 
   return (
+
     <div className="datatable mt-5">
       <table
         id="table"
@@ -37,6 +38,6 @@ const DataTable = () => {
       </table>
     </div>
   );
-};
+}
 
 export default DataTable;
